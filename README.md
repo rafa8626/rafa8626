@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm Rafael Miranda (aka, Rafa), a 10+ years experienced Software Engineer. 
+I'm Rafael Miranda (aka, Rafa), a 13+ years experienced Software Engineer. 
 
 - 🔭 I’m currently working on performance improvements and a project dedicated to eConsent at my new job. 
-- 🌱 I’m currently learning DynamoDB and other AWS tech stack to be MEAN developer.
+- 🌱 I’m currently learning DynamoDB and other AWS tech stack to be a MEAN developer 😈.
 - 🚧 I created [OpenPlayerJS](https://github.com/openplayerjs/openplayerjs) in 2018, and I actively maintain it.
 - 📫 You can reach me using email: rafa8626@gmail.com
 
