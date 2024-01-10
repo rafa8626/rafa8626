@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rafael Miranda (aka, Rafa), a 13+ years experienced Software Engineer. 
+I'm Rafael Miranda (aka, Rafa), a 14+ years experienced Software Engineer. 
 
 - 🔭 I’m currently working on performance improvements and migrating our project to Vite and Ract 18. 
 - 🌱 I’m currently re-learning data strucures and algorithms, learning DynamoDB and other AWS tech stack to be a better and MEAN developer 😈.
